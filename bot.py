@@ -2,6 +2,7 @@ import os
 import discord
 from keep_alive import keep_alive
 
+load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
 intents = discord.Intents.default()
