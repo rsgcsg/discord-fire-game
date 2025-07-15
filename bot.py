@@ -1,7 +1,7 @@
 import os
 import discord
 from keep_alive import keep_alive
-
+from dotenv import load_dotenv
 load_dotenv()
 TOKEN = os.getenv("DISCORD_TOKEN")
 
