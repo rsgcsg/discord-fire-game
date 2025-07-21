@@ -1,0 +1,11 @@
+{
+  "id": "servant",
+  "stage": {
+    "stage_1": {
+      "name": "石伯",
+      "description": "从小到大，一直跟随照顾你的老仆，如同家人一般",
+      "event": ["talking"],
+      "item": ["hat", "fishing_rod"]
+    }
+  }
+}

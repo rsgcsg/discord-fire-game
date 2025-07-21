@@ -1,0 +1,11 @@
+{
+  "id": "south_peace_ocean",
+  "stage": {
+    "stage_1": {
+      "name": "南静岚海",
+      "description": "远离世界中心的南静岚海，是通往遥远南州的必经航道，这里异常平静，几乎无风，鲜少有人踏足。",
+      "events": ["fishing", "approaching_servant"]
+
+    }
+  }
+  }
